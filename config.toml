@@ -1,0 +1,4 @@
+baseURL = "https://ejemplo.com/"
+languageCode = "es"
+title = "Mi Sitio Hugo"
+theme = "tema-hugo"
